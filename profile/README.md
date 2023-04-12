@@ -10,5 +10,5 @@
 
 <h3 align="center">Benvenuto utente nel progetto delle RBWCM</h3>
 
-<p align="center"> Qui è il luogo dove ti verranno assegnati dei lavori da fare.<br>Se hai bisogno di maggiori informazioni ti invitiamo a contattare il nostro Head Developer <a href="https://discord.com/users/466861191931756544"><strong>andrew.#8624</strong></a> o uno degli owners.</p>
+<p align="center">Se hai bisogno di maggiori informazioni ti invitiamo a contattare il nostro Head Developer <a href="https://discord.com/users/466861191931756544"><strong>andrew.#8624</strong></a> o uno degli owners/managers.</p>
 </div>
