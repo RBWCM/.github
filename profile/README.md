@@ -5,7 +5,7 @@
 </p>
 <div align="center">
 <a href="https://github.com/users/andrew0w0/projects/3">
-    <img src="https://user-images.githubusercontent.com/90263133/231456487-a91722f2-1f6c-47f5-87c6-127b5613566f.png" alt="Logo" width="200" height="200">
+    <img src="https://imgur.com/rV30nax.png" alt="Logo" width="200" height="200">
 </a>
 
 <h3 align="center">Benvenuto utente nel progetto delle RBWCM</h3>
