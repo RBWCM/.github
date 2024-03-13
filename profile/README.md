@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://discord.gg/rbwcm" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://www.youtube.com/@RankedBedwarsCoralMC" target"blank_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://www.tiktok.com/@rankedbwcoralmc" target"blank_"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+<a href="https://discord.gg/rbwcm" target="_blank"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.youtube.com/@RankedBedwarsCoralMC" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.tiktok.com/@rankedbwcoralmc" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </p>
 <div align="center">
 <a href="https://github.com/users/andrew0w0/projects/3">
